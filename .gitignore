@@ -1,0 +1,10 @@
+node_modules/
+.vercel/
+originals/
+*-reference.html
+reference.html
+photo-urls.json
+contact.jpg
+download_photos.py
+fonts-source.css
+.taste-skill/inspect/
